@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Namaskar.
+This is Divyanshu Bisht.
+I like Heisenberg and wanna cook meth with him!!!
